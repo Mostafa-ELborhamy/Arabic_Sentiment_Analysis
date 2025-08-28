@@ -38,14 +38,14 @@ Training workflow:
 ---
 
 ## 📊 Results
-| Metric           | Value   |
+| Metric           |  Value  |
 |------------------|---------|
-| Training Loss    | X.XXX   |
-| Validation Loss  | X.XXX   |
-| Accuracy         | XX.XX % |
-| Precision        | XX.XX % |
-| Recall           | XX.XX % |
-| F1 Score         | XX.XX % |
+| Training Loss    | 0.077200|
+| Validation Loss  | 0.206555|
+| Accuracy         | 0.958998|
+| Precision        | 0.958998|
+| Recall           | 0.958998|
+| F1 Score         | 0.959092|
 
 *(Replace `X.XXX` with your actual results from the notebook.)*
 
