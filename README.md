@@ -1,4 +1,4 @@
-# 🚗 Arabic Sentiment Analysis (Automobile Domain)
+# Arabic Sentiment Analysis 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
