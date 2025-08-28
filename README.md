@@ -22,7 +22,6 @@ The dataset consists of **automobile-related Arabic text samples** with annotate
 - Columns: `text`, `label`  
 - Classes: `pos`, `neg`, `mix`
 
-*(If dataset is private/custom, specify accordingly. If public, add link/citation.)*
 
 ---
 
@@ -47,14 +46,5 @@ Training workflow:
 | Recall           | 0.958998|
 | F1 Score         | 0.959092|
 
-*(Replace `X.XXX` with your actual results from the notebook.)*
 
----
 
-## 📦 Installation
-Clone the repo and install dependencies:
-
-```bash
-git clone https://github.com/<your-username>/arabic-sentiment-analysis.git
-cd arabic-sentiment-analysis
-pip install -r requirements.txt
